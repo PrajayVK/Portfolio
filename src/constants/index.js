@@ -108,10 +108,7 @@ import {
       name: "figma",
       icon: figma,
     },
-    {
-      name: "docker",
-      icon: docker,
-    },
+    
   ];
   
   const experiences = [
@@ -172,9 +169,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "BloxorzJS",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "This is a website that allows you to play a game called Bloxorz. Bloxorz is a game where you manipulate a cuboidal block (1x2x1 dimensions) through a set of platforms and navigate to the exit without falling off the edge. It has a leaderboard to keep track of the scores of every user.",
       tags: [
         {
           name: "react",
@@ -185,12 +182,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Node",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/PrajayVK/bloxorzjs",
     },
     {
       name: "Job IT",
