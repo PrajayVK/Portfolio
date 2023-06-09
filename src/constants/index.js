@@ -190,46 +190,46 @@ import {
       source_code_link: "https://github.com/PrajayVK/bloxorzjs",
     },
     {
-      name: "Job IT",
+      name: "Emotion Detection",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "The aim of the project is to analyze the user's voice and determine their mood which can then be used for various purposes.Companies can provide a more personalised experience by recommending products based on the person's mood. One such example being in voice assistants. When the user asks it to play a song for example, it can play a song based on the user's mood.",
       tags: [
         {
-          name: "react",
+          name: "Python",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Audio",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Keras Module",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/PrajayVK/Emotion-Detector-Using-Voice-as-an-Input",
     },
     {
-      name: "Trip Guide",
+      name: "Multi Lingual Compiler",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "The aim of this project is to teach coding to students who do not know english. The user asks a query and can visualise how the code runs with a AST.This uses OpenAI's API in order to answer the user's queries",
       tags: [
         {
-          name: "nextjs",
+          name: "Python",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "OpenAI Api",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "GraphViz",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/PrajayVK/Multilingual-Meta-language-and-IDE",
     },
   ];
   
