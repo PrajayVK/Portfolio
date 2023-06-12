@@ -44,8 +44,10 @@ const About = () => {
       I am particularly proud of my contribution to a project called Emotion Detection, 
       which won a hackathon from IBM conducted by Shooting Stars Foundation.
       I aspire to become a full stack developer and a developer who is good with Machine Learning.  
-      
+      <motion.a href="https://www.linkedin.com/in/prajayvk/" className='mt-4 text-grey-700 text-[17px] max-w-3xl leading-[30px] underline'> <br/>My LinkedIn Profile </motion.a>
+      <motion.a href="https://github.com/PrajayVK/" className='mt-4 text-grey-700 text-[17px] max-w-3xl leading-[30px] underline'> <br/>Github </motion.a>
       </motion.p>
+      
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service,index)=>(
           <ServiceCard key={service.title} index={index} {...service}/>
